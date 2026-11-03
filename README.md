@@ -394,6 +394,7 @@ Community-maintained plugin marketplaces you can add to access additional plugin
 | Marketplace | Description | Install |
 |-------------|-------------|---------|
 | [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips?tab=readme-ov-file#install-the-dx-plugin) | dx plugin: GitHub Actions analysis (`/gha`), conversation cloning (`/clone`, `/half-clone`), context handoffs (`/handoff`), Reddit fetching (`/reddit-fetch`) | `claude plugin marketplace add ykdojo/claude-code-tips` then `claude plugin install dx@ykdojo` |
+| [KI-Klub-Werder-e-V/openverein](https://github.com/KI-Klub-Werder-e-V/openverein#mit-claude-code-verbinden) | openverein plugin: connects Claude Code to a self-hosted OpenVerein club (German e.V. club management) over remote MCP with OAuth. Members query their portal, the board works with its own rights; every call logged and revocable. | `/plugin marketplace add KI-Klub-Werder-e-V/openverein` then `/plugin install openverein@openverein` |
 
 
 ### Skills & Frameworks
